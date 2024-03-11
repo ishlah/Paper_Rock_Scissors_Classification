@@ -1,0 +1,2 @@
+Proyek klasifikasi menggunakan Convolutional Neural Network (CNN) untuk permainan Batu, Kertas
+Permainan klasik Batu, Kertas, Gunting adalah dasar dari proyek ini. Kami menggunakan teknologi Deep Learning, khususnya CNN, untuk melatih model yang mampu mengenali dan mengklasifikasikan tiga kategori utama permainan ini. Dataset yang digunakan telah dipersiapkan dan terdiri dari gambar-gambar tangan yang merepresentasikan setiap opsi permainan.
